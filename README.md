@@ -15,8 +15,8 @@ All notebooks are implemented in Python using TensorFlow / Keras and demonstrate
 I have successfully completed the course and earned the following certificate:  
 [🔗 Verify on Coursera](https://www.coursera.org/account/accomplishments/verify/1DSUPE7XF0J9)
 
-![Certificate](certificate/Coursera%201DSUPE7XF0J9.pdf)  
-*(The PDF is also available in the `certificate/` folder of this repo.)*
+![Certificate](Coursera%201DSUPE7XF0J9.pdf)  
+*(The PDF is also available in the this repo.)*
 
 ---
 
